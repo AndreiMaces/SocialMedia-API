@@ -1,0 +1,166 @@
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\appsettings.json
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\SocialMedia.exe
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\SocialMedia.deps.json
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\SocialMedia.runtimeconfig.json
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\SocialMedia.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\SocialMedia.pdb
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.csproj.AssemblyReference.cache
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.AssemblyInfoInputs.cache
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.AssemblyInfo.cs
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\staticwebassets\msbuild.SocialMedia.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\staticwebassets\msbuild.build.SocialMedia.props
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SocialMedia.props
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SocialMedia.props
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\scopedcss\bundle\SocialMedia.styles.css
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.csproj.CopyComplete
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\refint\SocialMedia.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.pdb
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.genruntimeconfig.cache
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\obj\Debug\net7.0\ref\SocialMedia.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Andrei\Facultate\C#\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\appsettings.json
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\SocialMedia.exe
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\SocialMedia.deps.json
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\SocialMedia.runtimeconfig.json
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\SocialMedia.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\SocialMedia.pdb
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Humanizer.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.csproj.AssemblyReference.cache
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.AssemblyInfoInputs.cache
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.AssemblyInfo.cs
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.csproj.CoreCompileInputs.cache
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\staticwebassets\msbuild.SocialMedia.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\staticwebassets\msbuild.build.SocialMedia.props
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SocialMedia.props
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SocialMedia.props
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\scopedcss\bundle\SocialMedia.styles.css
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.csproj.CopyComplete
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\refint\SocialMedia.dll
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.pdb
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\SocialMedia.genruntimeconfig.cache
+C:\Users\andrei\Desktop\Personal\Personal Repositories\SocialMedia-API\SocialMedia\obj\Debug\net7.0\ref\SocialMedia.dll
